@@ -78,10 +78,10 @@
 <br><br>
 <div>
     <p width="100%" align="center">
-        <a align="left" href="https://github.com/ydemek/cpp-openmp-needleman-wunsch" title="Developer Social Media"><img
+        <a align="left" href="https://github.com/ydemek/DevConnector" title="Developer Social Media"><img
                 align="left" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=DevConnector&theme=gotham"></a>
-        <a align="right" href="https://github.com/ydemek/cpp-artificial-neural-networks" title="App Clone"><img
+        <a align="right" href="https://github.com/ydemek/hayatevesigar" title="App Clone"><img
                 align="right" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=hayatevesigar&theme=gotham"></a>
     </p>
