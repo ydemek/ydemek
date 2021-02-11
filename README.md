@@ -86,7 +86,7 @@
 <h2 align="center">Repositories</h2>
 
 <br><br>
-<div width="100%" align="center">
+<div>
     <p width="100%" align="center">
         <a align="left" href="https://github.com/ydemek/moniTTool" title="moniTTool"><img align="left" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=moniTTool&theme=gotham"></a>
