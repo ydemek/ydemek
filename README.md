@@ -90,9 +90,6 @@
     <p width="100%" align="center">
         <a align="left" href="https://github.com/ydemek/moniTTool" title="moniTTool"><img align="left" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=moniTTool&theme=gotham"></a>
-        <a align="right" href="https://github.com/ydemek/hayatevesigar" title="App Clone"><img align="right"
-                height="115"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=hayatevesigar&theme=gotham"></a>
         <a align="left" href="https://github.com/ydemek/ContactManager" title="ContactManager"><img align="left" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=ContactManager&theme=gotham"></a>
     </p>
