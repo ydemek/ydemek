@@ -17,12 +17,7 @@
 </p>
 
 
-<div align="center">
-    <h3><img src="https://media.giphy.com/media/ifS5VwP9UWUsN9Elu6/giphy.gif" width="30"> Yasin Demek | 💻 Full
-        Stack Developer | <img src='https://media.giphy.com/media/jPI0uK8lRXArlCdgFc/giphy.gif' width="30"
-            style="margin-bottom: -10px;"> Ankara, Turkey
-        <img src="https://media.giphy.com/media/ifS5VwP9UWUsN9Elu6/giphy.gif" width="30"></h3>
-</div>
+
 <br />
 
 <hr>
@@ -46,52 +41,65 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg"
-        width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://docs.amplify.aws/assets/logo-dark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://reactnative.dev/img/header_logo.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+    width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"
         width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 <hr>
 
 <h2 align="center">Repositories</h2>
 
 <br><br>
-<div>
+<div width="100%" align="center">
     <p width="100%" align="center">
-        <a align="left" href="https://github.com/ydemek/DevConnector" title="Developer Social Media"><img
-                align="left" height="115"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=DevConnector&theme=gotham"></a>
-        <a align="right" href="https://github.com/ydemek/hayatevesigar" title="App Clone"><img
-                align="right" height="115"
+        <a align="left" href="https://github.com/ydemek/moniTTool" title="moniTTool"><img align="left" height="115"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=moniTTool&theme=gotham"></a>
+        <a align="right" href="https://github.com/ydemek/hayatevesigar" title="App Clone"><img align="right"
+                height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=hayatevesigar&theme=gotham"></a>
+        <a align="left" href="https://github.com/ydemek/ContactManager" title="ContactManager"><img align="left" height="115"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=ydemek&repo=ContactManager&theme=gotham"></a>
     </p>
 </div>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 
-
+<br><br>
+<br><br>
 <div>
     <h2 align="center">Your daily dose of Meme <img src="https://media.giphy.com/media/3og0Iw1U36HosQQWXK/giphy.gif" width="30" style="margin-bottom: -10px;"></h2>
     <p width="100%" align="center">
