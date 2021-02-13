@@ -98,7 +98,7 @@
 <br><br>
 <br><br>
 <div>
-    <h2 align="center">Your daily dose of Meme <img src="https://media.giphy.com/media/3og0Iw1U36HosQQWXK/giphy.gif" width="60" style="margin-bottom: -10px;"></h2>
+    <h2 align="center">Your daily dose of Meme <img src="https://media.giphy.com/media/3og0Iw1U36HosQQWXK/giphy.gif" width="60" style="margin-top: 30px;"></h2>
     <p width="100%" align="center">
         <img src='https://random-memer.herokuapp.com/' title="Meme" width="400"
             alt="Please refresh the page is the meme doesn't show up.">
